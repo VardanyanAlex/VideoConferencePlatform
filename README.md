@@ -9,6 +9,7 @@ The client and the server use 2 ports 5000 and 6000. The 5000 is the main port: 
 **Dependencies**
 
 In this project Open CV library is used for camera capturing.
+
 Open CV version:4.10.0
 
 **GUI**
